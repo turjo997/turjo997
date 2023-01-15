@@ -66,8 +66,8 @@
 
 </p> -->
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<!-- ## ❤ Views and Followers
+<a href="https://github.com/turjo997/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=turjo997">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/turjo997?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/turjo997?tab=followers"><img src="https://img.shields.io/github/followers/turjo997?label=Followers&style=social" alt="GitHub Badge"></a> -->
