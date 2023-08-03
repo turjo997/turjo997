@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **software design pattern , spring framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/turjo998](https://github.com/turjo998)
+- 👨‍💻 All of my projects are available at [https://github.com/turjo997](https://github.com/turjo997)
 
-- 📫 How to reach me **ullash.bhattacharjee@bjitacademy.com**
+- 📫 How to reach me **97.bhattacharjee.ullash@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1gKaf2vAMlgQjJ3hmZ7EK8QT_QIYbMgtQ](https://drive.google.com/drive/folders/1gKaf2vAMlgQjJ3hmZ7EK8QT_QIYbMgtQ)
 
