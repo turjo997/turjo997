@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **97.bhattacharjee.ullash@gmail.com**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/drive/u/1/folders/1gKaf2vAMlgQjJ3hmZ7EK8QT_QIYbMgtQ)
+- 📄 Know about my experiences [Here](https://drive.google.com/drive/u/1/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
