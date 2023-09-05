@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Ullash Bhattacharjee</h1>
-<h3 align="center">A passionate problem solver and full stack developer who always striving to learn something new every day and applied them to practical work</h3>
+<h4 align="center">Aspiring Full Stack Software Engineer with a passion for creating smooth and user-friendly digital experiences. Eager to contribute my problem-solving skills to dynamic projects. Open to collaborations, excited to learn from experienced professionals, and committed to staying updated with web development trends.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turjo998&label=Profile%20views&color=0e75b6&style=flat" alt="turjo998" /> </p>
 
