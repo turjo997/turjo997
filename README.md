@@ -62,6 +62,6 @@ poster.
 
 -->
 
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=turjo998&show_icons=true&locale=en" alt="turjo998" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=turjo997&show_icons=true&locale=en" alt="turjo997" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=turjo998&" alt="turjo998" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=turjo997&" alt="turjo997" /></p>
