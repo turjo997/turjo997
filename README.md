@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ullash Bhattacharjee</h1>
 <h4 align="center">Aspiring Full Stack Software Engineer with a passion for creating smooth and user-friendly digital experiences. Eager to contribute my problem-solving skills to dynamic projects. Open to collaborations, excited to learn from experienced professionals, and committed to staying updated with web development trends.</h4>
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turjo998&label=Profile%20views&color=0e75b6&style=flat" alt="turjo998" /> </p>
-
+-->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turjo998" alt="turjo998" /></a> </p>
  -->
 - 🔭 I’m currently working on **web application development**
