@@ -1,7 +1,11 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi there 👋, I'm Ullash Bhattacharjee</h1>
+<h2 align="left">🕵️‍♂️ About Me</h2>
 
-<h1 align="center">Hi 👋, I'm Ullash Bhattacharjee</h1>
+I'm currently working as an **Assistant Programmer** at [IICT , BUET](https://iict.buet.ac.bd/). I completed my undergraduate degree in **Computer Science and Engineering** from **AUST** in 2023.
+
+<!--
 <h4 align="center">Aspiring Full Stack Software Engineer with a passion for creating smooth and user-friendly digital experiences. Eager to contribute my problem-solving skills to dynamic projects. Open to collaborations, excited to learn from experienced professionals, and committed to staying updated with web development trends.</h4>
+-->
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turjo998&label=Profile%20views&color=0e75b6&style=flat" alt="turjo998" /> </p>
@@ -18,6 +22,10 @@
 
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/13zA_7UI2DfoG_mcUGCiBnm44iWe_8AAu/view?usp=drive_link)
 
+> 💡 ***Feel free to reach out to me on [***linkedin***](https://www.linkedin.com/in/ullash-bhattacharjee-2637a51b1/) or [***mail***](mailto:97.bhattacharjee.ullash@gmail.com) if you have similar interests and want to discuss opportunities or collaborate.***
+
+<!--
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ullash-bhattacharjee-2637a51b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bd.linkedin.com/in/ullash-bhattacharjee-2637a51b1" height="30" width="40" /></a>
@@ -25,6 +33,7 @@
 <a href="https://www.codechef.com/users/turjo97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="turjo97" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/turjo997_aust" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="turjo997_aust" height="30" width="40" /></a>
 </p>
+<!--
 <hr>
 <br>
 
@@ -66,3 +75,9 @@ poster.
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=turjo997&show_icons=true&locale=en" alt="turjo997" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=turjo997&" alt="turjo997" /></p>
+
+
+<!--
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+-->
+
