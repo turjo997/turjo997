@@ -52,6 +52,11 @@ I'm currently working as an **Assistant Programmer** at [IICT , BUET](https://ii
 ![Docker](https://img.shields.io/static/v1?&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?&message=Linux&color=000000&logo=linux&logoColor=f5ba3b&label=)
+![Jenkins](https://img.shields.io/static/v1?message=Jenkins&color=D24939&logo=jenkins&logoColor=white&label=)
+![Kubernetes](https://img.shields.io/static/v1?message=Kubernetes&color=326CE5&logo=kubernetes&logoColor=white&label=)
+![JasperReport](https://img.shields.io/static/v1?message=JasperReports&color=FF4500&logo=jasperreports&logoColor=white&label=)
+
+
 
 ### Machine Learning
 ![PyTorch](https://img.shields.io/static/v1?&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
