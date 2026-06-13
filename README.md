@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ullash Bhattacharjee</h1>
 <h2 align="left">🕵️‍♂️ About Me</h2>
 
-I'm currently working as an **Assistant Programmer** at [IICT , BUET](https://iict.buet.ac.bd/). I completed my undergraduate degree in **Computer Science and Engineering** from **AUST** in 2023.
+I'm currently working as a **Software Engineer** at [Expo Group , Innoweb Ltd](https://innoweb.co/). I completed my undergraduate degree in **Computer Science and Engineering** from **AUST** in 2023.
 
 <!--
 <h4 align="center">Aspiring Full Stack Software Engineer with a passion for creating smooth and user-friendly digital experiences. Eager to contribute my problem-solving skills to dynamic projects. Open to collaborations, excited to learn from experienced professionals, and committed to staying updated with web development trends.</h4>
